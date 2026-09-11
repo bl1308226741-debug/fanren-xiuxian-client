@@ -22,9 +22,14 @@
 
 ### 1. 下载三个文件
 
-- **材质包**:[凡人修仙传-材质包.zip](https://github.com/qw1056511292-del/fanren-xiuxian-client/releases/latest/download/fanren-xiuxian-resourcepack.zip)(下载后把文件改名为 `凡人修仙传-材质包.zip`,不改也能用)
-- **模组**:[xiuxianforge-0.1.0.jar](https://github.com/qw1056511292-del/fanren-xiuxian-client/raw/main/mods/xiuxianforge-0.1.0.jar)
-- **模组**:[curios-forge-5.14.1+1.20.1.jar](https://github.com/qw1056511292-del/fanren-xiuxian-client/raw/main/mods/curios-forge-5.14.1%2B1.20.1.jar)
+打开 **[下载页面(Releases)](https://github.com/qw1056511292-del/fanren-xiuxian-client/releases/latest)**,
+在页面下方的 **Assets** 里点这三个文件下载(不需要登录):
+
+| 下载的文件 | 放到哪 |
+|---|---|
+| `fanren-xiuxian-resourcepack.zip`(材质包) | `resourcepacks` 文件夹 |
+| `xiuxianforge-0.1.0.jar` | `mods` 文件夹 |
+| `curios-forge-5.14.1+1.20.1.jar` | `mods` 文件夹 |
 
 ### 2. 放文件
 
@@ -41,6 +46,8 @@
 
 - 两个 `.jar` 文件放进 **`mods`** 文件夹(没有这个文件夹就自己建一个)。
 - 材质包 `.zip` 放进 **`resourcepacks`** 文件夹。
+  **把下载的 `fanren-xiuxian-resourcepack.zip` 改名为 `凡人修仙传-材质包.zip`**
+  (不改也能用,改名只是为了和服务器更新的文件对上)。
 
 ### 3. 在游戏里启用材质包(这步不能省)
 
@@ -63,7 +70,7 @@
 
 ## 更新时怎么做
 
-服务器内容更新时,这个页面里的文件会重新上传:
+服务器内容更新时,Releases 下载页面里的文件会重新上传:
 
 1. **重新下载**材质包 → 覆盖 `resourcepacks` 里的旧文件
 2. 进游戏 → **选项 → 资源包**,确认右边"已选"列表里**仍有**"凡人修仙传-材质包"
