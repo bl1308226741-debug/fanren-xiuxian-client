@@ -1,0 +1,6 @@
+# 视觉效果开关
+[visuals]
+	# 年老时是否叠加屏幕暗角效果。
+	vignetteEnabled = true
+	# 走火入魔/心魔状态下是否显示黑气粒子效果。
+	demonicAuraParticlesEnabled = true
