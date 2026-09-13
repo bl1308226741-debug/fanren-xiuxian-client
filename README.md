@@ -26,14 +26,14 @@
 
 点本页右上角绿色 **Code → Download ZIP**,或直接点这个链接:
 
-**https://github.com/qw1056511292-del/fanren-xiuxian-client/archive/refs/heads/main.zip**
+**https://github.com/bl1308226741-debug/fanren-xiuxian-client/archive/refs/heads/main.zip**
 
 解压后是 `mods / config / resourcepacks` 三个文件夹 + 一份 `使用说明.txt`,
 按下面第 2 步复制即可。
 
 **方式 B:从 Releases 逐个下载**
 
-打开 **[下载页(Releases)](https://github.com/qw1056511292-del/fanren-xiuxian-client/releases/latest)**,
+打开 **[下载页(Releases)](https://github.com/bl1308226741-debug/fanren-xiuxian-client/releases/latest)**,
 在页面下方的 **Assets** 里下载(不需要登录)。如果 Releases 页的文件版本看起来比仓库旧,
 以方式 A 的整包为准。
 
